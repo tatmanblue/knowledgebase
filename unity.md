@@ -6,6 +6,7 @@ https://www.youtube.com/c/SunnyValleyStudio/videos
 # Character controller
 https://docs.unity3d.com/Manual/class-CharacterController.html  
 https://www.immersivelimit.com/tutorials/simple-character-controller-for-unity  
+https://docs.unity3d.com/Manual/ConfiguringtheAvatar.html  
 
 # ML-Agents
 https://unity.com/products/machine-learning-agents  
