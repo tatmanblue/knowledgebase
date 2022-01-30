@@ -10,3 +10,7 @@ https://docs.unity3d.com/Manual/ConfiguringtheAvatar.html
 
 # ML-Agents
 https://unity.com/products/machine-learning-agents  
+
+# Free Assets  
+https://kenney.nl/assets  
+https://opengameart.org/  
