@@ -9,3 +9,4 @@ My repo for storing random information
 
 ## Uncategorized links
 https://www.webfx.com/tools/emoji-cheat-sheet/  
+https://assets.prod.novaquark.com/10847/e75e4139-44c1-4311-be09-772c77f70ea3.png
