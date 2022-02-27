@@ -5,6 +5,7 @@ My repo for storing random information
 [Blockchain](blockchain.md)  
 [DevTools](dev-tools.md)  
 [DotNet](dotnetcore.md)  
+[Dual Universe](du.md)  
 [Unity](unity.md)  
 
 ## Uncategorized links
