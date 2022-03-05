@@ -14,6 +14,13 @@ https://opengameart.org/
 # ML-Agents
 https://unity.com/products/machine-learning-agents  
 
+# Sound Libraries
+https://www.loopmasters.com/content_types/1  
+https://www.loopcloud.com/cloud/?a_aid=5f89e4a781e68  
+
+## Specific Sound librarys
+https://www.loopmasters.com/genres/73-Cinematic/products/14114-Convergence-Heavy-Cinematics  
+
 # Tutorials
 https://learn.unity.com/tutorials?k=%5B%22lang%3Aen%22%2C%22sl%3Abeginner%22%5D&ob=starts  
 https://www.youtube.com/c/SunnyValleyStudio/videos  
