@@ -1,7 +1,10 @@
 
 # Unity Engine
 https://docs.unity3d.com/Manual/ExecutionOrder.html  
-https://gamedevbeginner.com/input-in-unity-made-easy-complete-guide-to-the-new-system/#input_system_explained  
+
+## New Input system
+https://gamedevbeginner.com/input-in-unity-made-easy-complete-guide-to-the-new-system/#input_system_explained  (outdated)  
+https://www.youtube.com/watch?v=HmXU4dZbaMw  
 
 # Character controller
 https://docs.unity3d.com/Manual/class-CharacterController.html  
