@@ -10,6 +10,7 @@ https://www.youtube.com/watch?v=HmXU4dZbaMw
 https://docs.unity3d.com/Manual/class-CharacterController.html  
 https://www.immersivelimit.com/tutorials/simple-character-controller-for-unity  
 https://docs.unity3d.com/Manual/ConfiguringtheAvatar.html  
+https://catlikecoding.com/unity/tutorials/movement/  
 
 # UMA Charactor Tutorials
 https://www.youtube.com/watch?v=fqz61ND-fT4&list=PL6pqvWkvTOzT4lz6c5D-g9UY1obJBJkvo  
