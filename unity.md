@@ -5,7 +5,11 @@ https://www.immersivelimit.com/tutorials/simple-character-controller-for-unity
 https://docs.unity3d.com/Manual/ConfiguringtheAvatar.html  
 
 # UMA Charactor Tutorials
-https://www.youtube.com/watch?v=fqz61ND-fT4&list=PL6pqvWkvTOzT4lz6c5D-g9UY1obJBJkvo  
+| Link | Description |
+| ---- | ---- |
+| [link](https://www.youtube.com/watch?v=fqz61ND-fT4&list=PL6pqvWkvTOzT4lz6c5D-g9UY1obJBJkvo) |   |
+| [link](https://medium.com/codex/how-to-animate-and-move-a-simple-player-with-mixamo-and-unity-c-721470b54551) | Mixamo tutorial |
+
 
 # Free Assets  
 https://kenney.nl/assets  
