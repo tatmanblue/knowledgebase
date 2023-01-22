@@ -10,4 +10,4 @@ My repo for storing random information
 
 ## Uncategorized links
 https://www.webfx.com/tools/emoji-cheat-sheet/  
-
+https://gist.github.com/harishanchu/e82d759c0235379d1778f799992b5774  
