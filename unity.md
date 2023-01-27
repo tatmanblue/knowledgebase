@@ -45,6 +45,9 @@ https://www.speed-tutor.com/
 https://www.youtube.com/c/SunnyValleyStudio/videos  
 https://www.youtube.com/watch?v=0-PxVfOy5Ko  
 
+## Async progreamming
+https://learn.microsoft.com/en-us/dotnet/standard/asynchronous-programming-patterns/  
+
 # Blogs
 https://www.boristhebrave.com/  
 
