@@ -44,6 +44,7 @@ https://github.com/Habrador/Unity-Programming-Patterns
 https://www.speed-tutor.com/  
 https://www.youtube.com/c/SunnyValleyStudio/videos  
 https://www.youtube.com/watch?v=0-PxVfOy5Ko  
+[Drawing Lines on UI](https://docs.unity3d.com/ScriptReference/GL.LINES.html)  
 
 ## Async progreamming
 https://learn.microsoft.com/en-us/dotnet/standard/asynchronous-programming-patterns/  
