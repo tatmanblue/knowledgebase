@@ -56,6 +56,8 @@ https://learn.microsoft.com/en-us/dotnet/standard/asynchronous-programming-patte
 https://www.boristhebrave.com/  
 
 ## Steam
-[Dev Guide to publishing on Steam](https://www.gamesindustry.biz/a-developers-guide-to-releasing-a-game-on-steam)  
+| Link | Description |
+| ---- | ---- |
+|[Link](https://www.gamesindustry.biz/a-developers-guide-to-releasing-a-game-on-steam)  | Dev Guide to publishing on Steam |
 
 
