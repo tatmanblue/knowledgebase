@@ -58,6 +58,7 @@ https://www.boristhebrave.com/
 ## Steam
 | Link | Description |
 | ---- | ---- |
-|[Link](https://www.gamesindustry.biz/a-developers-guide-to-releasing-a-game-on-steam)  | Dev Guide to publishing on Steam |
+|[Link](https://www.gamesindustry.biz/a-developers-guide-to-releasing-a-game-on-steam)  | Dev Guide to publishing on Steam |  
+|[Link](https://www.youtube.com/watch?v=CAQsIDxI7rU) | Code Monkey Steam Publishing Check list |  
 
 
