@@ -18,6 +18,7 @@ https://catlikecoding.com/unity/tutorials/movement/
 | [link](https://www.youtube.com/watch?v=fqz61ND-fT4&list=PL6pqvWkvTOzT4lz6c5D-g9UY1obJBJkvo) |   |
 | [link](https://medium.com/codex/how-to-animate-and-move-a-simple-player-with-mixamo-and-unity-c-721470b54551) | Mixamo tutorial |  
 | [link](https://gamedevbeginner.com/how-to-rotate-in-unity-complete-beginners-guide/) | Movement and Rotation Tutorial |
+| [link](https://docs.unity.com/analytics/en/manual/SDKInstallation) | Using Analytics |
 
 
 # RayCasting
