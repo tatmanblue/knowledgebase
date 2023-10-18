@@ -19,7 +19,9 @@ https://catlikecoding.com/unity/tutorials/movement/
 | Link | Description |
 | ---- | ---- |
 | [link](https://www.youtube.com/watch?v=fqz61ND-fT4&list=PL6pqvWkvTOzT4lz6c5D-g9UY1obJBJkvo) |   |
-| [link](https://medium.com/codex/how-to-animate-and-move-a-simple-player-with-mixamo-and-unity-c-721470b54551) | Mixamo tutorial |
+| [link](https://medium.com/codex/how-to-animate-and-move-a-simple-player-with-mixamo-and-unity-c-721470b54551) | Mixamo tutorial |  
+| [link](https://gamedevbeginner.com/how-to-rotate-in-unity-complete-beginners-guide/) | Movement and Rotation Tutorial |
+| [link](https://docs.unity.com/analytics/en/manual/SDKInstallation) | Using Analytics |
 
 
 # RayCasting
@@ -54,6 +56,8 @@ https://www.speed-tutor.com/
 https://www.youtube.com/c/SunnyValleyStudio/videos  
 https://www.youtube.com/watch?v=0-PxVfOy5Ko  
 [Drawing Lines on UI](https://docs.unity3d.com/ScriptReference/GL.LINES.html)  
+[Gui Attributes](https://tutorials.eu/unity-attributes-15-tipps-for-the-perfect-inspector-experience/)  
+[UI Notes](https://irfanbaysal.medium.com/creating-dynamic-ui-guide-in-unity-8676d1007dc7)  
 
 ## Async progreamming
 https://learn.microsoft.com/en-us/dotnet/standard/asynchronous-programming-patterns/  
