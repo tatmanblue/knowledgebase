@@ -6,6 +6,9 @@ https://docs.unity3d.com/Manual/ExecutionOrder.html
 https://gamedevbeginner.com/input-in-unity-made-easy-complete-guide-to-the-new-system/#input_system_explained  (outdated)  
 https://www.youtube.com/watch?v=HmXU4dZbaMw  
 
+## New project setup
+https://www.reddit.com/r/unity/comments/11z8izq/using_unityengineinputsystem_inputsystem_does_not/  
+
 # Character controller
 https://docs.unity3d.com/Manual/class-CharacterController.html  
 https://www.immersivelimit.com/tutorials/simple-character-controller-for-unity  
@@ -23,8 +26,11 @@ https://catlikecoding.com/unity/tutorials/movement/
 https://gamedevbeginner.com/raycasts-in-unity-made-easy/
 
 # Free Assets  
-https://kenney.nl/assets  
-https://opengameart.org/  
+| Link | Description |
+| ---- | ---- |
+| [Link](https://kenney.nl/assets) | |   
+| [Link](https://opengameart.org/) | |     
+| [Link](https://www.textures.com/) | Textures, free and paid |   
 
 # ML-Agents
 https://unity.com/products/machine-learning-agents  
