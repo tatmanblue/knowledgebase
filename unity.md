@@ -58,6 +58,7 @@ https://www.youtube.com/watch?v=0-PxVfOy5Ko
 [Drawing Lines on UI](https://docs.unity3d.com/ScriptReference/GL.LINES.html)  
 [Gui Attributes](https://tutorials.eu/unity-attributes-15-tipps-for-the-perfect-inspector-experience/)  
 [UI Notes](https://irfanbaysal.medium.com/creating-dynamic-ui-guide-in-unity-8676d1007dc7)  
+[Changing Materials at runtime](https://gyanendushekhar.com/2018/09/16/change-material-and-its-properties-at-runtime-unity-tutorial/)  
 
 ## Async progreamming
 https://learn.microsoft.com/en-us/dotnet/standard/asynchronous-programming-patterns/  
