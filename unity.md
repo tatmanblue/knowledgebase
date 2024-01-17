@@ -68,10 +68,11 @@ https://www.youtube.com/watch?v=0-PxVfOy5Ko
 ## Blogs
 https://www.boristhebrave.com/  
 
-## Steam
+## Publishing
 | Link | Description |
 | ---- | ---- |
 |[Link](https://www.gamesindustry.biz/a-developers-guide-to-releasing-a-game-on-steam)  | Dev Guide to publishing on Steam |  
 |[Link](https://www.youtube.com/watch?v=CAQsIDxI7rU) | Code Monkey Steam Publishing Check list |  
+|[Link](https://store.epicgames.com/en-US/distribution) | Epic Store |  
 
 
