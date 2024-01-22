@@ -1,7 +1,7 @@
 # SunkenTreasure
 
 ## Item Ids
-| ---- | ---- | ---- |  
+  
 | Name | Id | Max |  
 | ---- | ---- | ---- |  
 | Can Food | 3009 | ? |  
