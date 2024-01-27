@@ -49,14 +49,15 @@ Version: 0.2.0
 | Marlin Fish Skin | 6057  |  10 |  
 | Military Grenade | 6502  |   ? |  
 | Modern Parts     | 10012 |   ? |  
-| Modern Gun Part  | 10013 |   ? |  
-| Molotov Cocktail | 6503  |   ? | 
-| Pistol Ammo      | 6254  |   ? |  
+| Modern Gun Part  | 10013 |  50 |   
+| Molotov Cocktail | 6503  |   5 |  
+| Pistol Ammo      | 6254  | 500 |  
 | Potatoe          | 2012  |   ? |  
 | Rifle Ammo       | 6255  |   ? |  
 | Rope             | 10001 |  30 |  
 | Rubber           | 6058  |  10 |  
 | Scrap            | 6004  |  20 |  
+| Scrap Metal Stk  | 24039 |     |  
 | Shark Fin        | 6059  |  10 |  
 | Shotgun Ammo     | 6256  |   ? |  
 | Skull Crusher Ax | 1108  |   ? |  
