@@ -13,7 +13,8 @@ My repo for storing random information
 
 
 ## Learning
-[Azure Design Patterns](https://learn.microsoft.com/en-us/azure/architecture/patterns/)
+[Azure Design Patterns](https://learn.microsoft.com/en-us/azure/architecture/patterns/)  
+[Microsoft Quantum Computing](https://learn.microsoft.com/en-us/azure/quantum/overview-what-is-qsharp-and-qdk)  
 
 ## Uncategorized links
 [About Press Kits](https://impress.games/blog/biggest-indie-game-press-kit-mistakes)  
