@@ -63,6 +63,8 @@ Version: 0.2.0
 | Skull Crusher Ax | 1108  |   ? |  
 | Smokeless Pwdr   | 10004 |   ? |  
 | Soda             | 3012  |   ? |  
+| Sniper Ammo      | 6259  |  50 |  
+| Stamina Herb     | 3004  |   ? |  
 | Steel Ingot      | 10008 |  50 |  
 | Strawberry Seed  | 6705  |   ? |  
 | Sulfur           | 6151  |   ? |  
