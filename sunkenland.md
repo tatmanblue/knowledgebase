@@ -6,23 +6,31 @@ Steam Page: [Link](https://store.steampowered.com/app/2080690/Sunkenland/)
 
 Game saves, on windows, are located at `C:\Users\{userid}\AppData\LocalLow\Vector3 Studio\Sunkenland\worlds`  
 
-All game data is in one plain text file, json formatted file called: `World.json'  
+All game data is in one plain text file, json formatted file called: `World.json`.   The version of the game this content applies to is Version: 0.2.0  
 
-This source [Link](https://thenerdstash.com/sunkenland-all-item-ids-and-how-to-modify-save/) list ids and items.  But their ids do not 
-seem to match what we found listed here.  Looking at reddit, looks like item ids have changed.  
+## Container Types
 
+Containers are configured in 2 sections. `Buildings` section contains the definition of the container (aka type, location, orientation etc).
+In the buildings section, a container `PiecePrefabId` field will be one of the values in this list below:  
 
-## item information gathered  
+| Name       | Id   | Max |  
+| ---------- | ---- | --- |  
+| Steel Drum | 157  |  40 |   
 
-Version: 0.2.0  
+Content of a container is in the `Storage` section.  There doesn't seem to be any restrictions on container content.  That could change at some future point and
+getting crazy with container content might break the game, so be careful.
+
+## Item Information   
+
   
 | Name | Id | Max |  
 | ---- | ---- | ---- |  
 | 50 cal Ammo      | 6251  |  1K |  
 | Advanced Parts   | 6103  |   5 |  
+| Anatase          | 6105  |   ? |  
 | Arrow            | 6257  |  50 |  
 | Ballistic Fiber  | 6102  |   ? |  
-| Battery          | 7012  |   ? |  
+| Battery          | 7012  |   1 |  
 | Black Powder     | 6252  |  50 |  
 | Bush Seed        | 6701  |   ? |  
 | Can Food         | 3009  |  50 |  
@@ -46,6 +54,7 @@ Version: 0.2.0
 | Iron Ore         | 6061  |  10 |  
 | Leather          | 6006  |  20 |  
 | Lemon Seed       | 6704  |   ? |  
+| Lithium Battery  | 7025  |   1 |  
 | Marlin Fish Skin | 6057  |  10 |  
 | Military Grenade | 6502  |   ? |  
 | Modern Parts     | 10012 |   ? |  
@@ -68,6 +77,7 @@ Version: 0.2.0
 | Steel Ingot      | 10008 |  50 |  
 | Strawberry Seed  | 6705  |   ? |  
 | Sulfur           | 6151  |   ? |  
+| Titanium Strips  | 10011 |   ? |  
 | Wood             | 6200  |  50 |  
 
 
