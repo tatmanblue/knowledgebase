@@ -4,6 +4,9 @@
 [Scaling](https://medium.com/swlh/building-horizontal-scalable-stateful-applications-with-asp-net-core-1db270d24646)  
 [JWT](https://medium.com/@fsilva0703/how-to-increase-the-security-of-your-api-using-net-7-with-jwts-json-web-tokens-728d574bc934)  
 
+### Architecture articles
+[Myth of Exceptions](https://thedatafarm.com/dotnet/what-i-learned-from-jeff-richter-today-about-exception-handling/)  
+
 ## Blazor
 [Components](https://blazor-university.com/)  
 
