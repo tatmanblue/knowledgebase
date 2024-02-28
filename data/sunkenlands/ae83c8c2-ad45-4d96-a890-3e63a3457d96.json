@@ -1,0 +1,525 @@
+{
+	"PlayerSaveData" : {
+		"__type" : "PlayerSaveData,Assembly-CSharp",
+		"value" : {
+			"lastPresentWorldPosition" : {
+				"x" : -1950.34326,
+				"y" : 35.9488754,
+				"z" : -48.5070267
+			},
+			"playerStatusData" : {
+				"health" : 160,
+				"targetHealth" : 160,
+				"hunger" : 88.56962,
+				"thirst" : 98.379425,
+				"bodyTemperature" : 100,
+				"targetBodyTemperature" : 9110,
+				"stamina" : 388.919617,
+				"energy" : 388.919617,
+				"wet" : 8.744171E-11,
+				"recyclePoints" : 181,
+				"inventionPoints" : 190
+			},
+			"playerEquipmentData" : {
+				"helmet" : {
+					"itemID" : 4012,
+					"amount" : 1,
+					"condition" : 3784.09985,
+					"itemProperties" : {
+					}
+				},
+				"mask" : {
+					"itemID" : 4550,
+					"amount" : 1,
+					"condition" : 66.09999,
+					"itemProperties" : {
+					}
+				},
+				"clothes" : {
+					"itemID" : 4001,
+					"amount" : 1,
+					"condition" : 1,
+					"itemProperties" : {
+					}
+				},
+				"pants" : {
+					"itemID" : 4022,
+					"amount" : 1,
+					"condition" : 3818,
+					"itemProperties" : {
+					}
+				},
+				"shoes" : {
+					"itemID" : 4521,
+					"amount" : 1,
+					"condition" : 100,
+					"itemProperties" : {
+					}
+				},
+				"armor" : {
+					"itemID" : 4016,
+					"amount" : 1,
+					"condition" : 3636.29956,
+					"itemProperties" : {
+					}
+				},
+				"backpack" : {
+					"itemID" : 7018,
+					"amount" : 1,
+					"condition" : 0,
+					"itemProperties" : {
+					}
+				},
+				"misc1" : {
+					"itemID" : 7013,
+					"amount" : 1,
+					"condition" : 449.663269,
+					"itemProperties" : {11:{
+							"value" : {
+								"__type" : "int"0
+							}
+						},0:{
+							"value" : {
+								"__type" : "int"7025
+							}
+						}
+					}
+				},
+				"misc2" : {
+					"itemID" : 7019,
+					"amount" : 1,
+					"condition" : 100,
+					"itemProperties" : {
+					}
+				},
+				"misc3" : {
+					"itemID" : -1,
+					"amount" : 0,
+					"condition" : 0,
+					"itemProperties" : {
+					}
+				},
+				"misc4" : {
+					"itemID" : -1,
+					"amount" : 0,
+					"condition" : 0,
+					"itemProperties" : {
+					}
+				},
+				"gloves" : {
+					"itemID" : 4643,
+					"amount" : 1,
+					"condition" : 1,
+					"itemProperties" : {
+					}
+				},
+				"rebreather" : {
+					"itemID" : -1,
+					"amount" : 0,
+					"condition" : 0,
+					"itemProperties" : {
+					}
+				}
+			},
+			"inventoryStorageSaveData" : {
+				"maxItemsAmount" : 30,
+				"itemSaveDataArray" : [
+					{
+						"itemID" : 6259,
+						"amount" : 200,
+						"condition" : 0,
+						"itemProperties" : {
+						}
+					},{
+						"itemID" : 3014,
+						"amount" : 1,
+						"condition" : 100,
+						"itemProperties" : {
+						}
+					},{
+						"itemID" : 3002,
+						"amount" : 22,
+						"condition" : 0,
+						"itemProperties" : {
+						}
+					},{
+						"itemID" : 3009,
+						"amount" : 16,
+						"condition" : 0,
+						"itemProperties" : {
+						}
+					},{
+						"itemID" : 6004,
+						"amount" : 15,
+						"condition" : 0,
+						"itemProperties" : {
+						}
+					},null,{
+						"itemID" : 6255,
+						"amount" : 200,
+						"condition" : 0,
+						"itemProperties" : {
+						}
+					},{
+						"itemID" : 3017,
+						"amount" : 1,
+						"condition" : 100,
+						"itemProperties" : {
+						}
+					},{
+						"itemID" : 6001,
+						"amount" : 6,
+						"condition" : 0,
+						"itemProperties" : {
+						}
+					},{
+						"itemID" : 6004,
+						"amount" : 20,
+						"condition" : 0,
+						"itemProperties" : {
+						}
+					},null,{
+						"itemID" : 444,
+						"amount" : 1,
+						"condition" : 100,
+						"itemProperties" : {
+						}
+					},{
+						"itemID" : 6004,
+						"amount" : 3,
+						"condition" : 0,
+						"itemProperties" : {
+						}
+					},{
+						"itemID" : 6004,
+						"amount" : 20,
+						"condition" : 0,
+						"itemProperties" : {
+						}
+					},{
+						"itemID" : 6004,
+						"amount" : 20,
+						"condition" : 0,
+						"itemProperties" : {
+						}
+					},{
+						"itemID" : 6255,
+						"amount" : 200,
+						"condition" : 0,
+						"itemProperties" : {
+						}
+					},{
+						"itemID" : 6200,
+						"amount" : 6,
+						"condition" : 0,
+						"itemProperties" : {
+						}
+					},null,{
+						"itemID" : 6004,
+						"amount" : 20,
+						"condition" : 0,
+						"itemProperties" : {
+						}
+					},{
+						"itemID" : 6004,
+						"amount" : 20,
+						"condition" : 0,
+						"itemProperties" : {
+						}
+					},{
+						"itemID" : 6004,
+						"amount" : 20,
+						"condition" : 0,
+						"itemProperties" : {
+						}
+					},null,null,null,null,null,null,{
+						"itemID" : 3001,
+						"amount" : 19,
+						"condition" : 0,
+						"itemProperties" : {
+						}
+					},null,null
+				]
+			},
+			"quickSlotStorageSaveData" : {
+				"maxItemsAmount" : 8,
+				"itemSaveDataArray" : [
+					{
+						"itemID" : 1002,
+						"amount" : 1,
+						"condition" : 0,
+						"itemProperties" : {
+						}
+					},{
+						"itemID" : 1107,
+						"amount" : 1,
+						"condition" : 0,
+						"itemProperties" : {
+						}
+					},{
+						"itemID" : 7001,
+						"amount" : 1,
+						"condition" : 99.7521,
+						"itemProperties" : {
+						}
+					},{
+						"itemID" : 7010,
+						"amount" : 22,
+						"condition" : 100,
+						"itemProperties" : {
+						}
+					},{
+						"itemID" : 6502,
+						"amount" : 1,
+						"condition" : 0,
+						"itemProperties" : {
+						}
+					},{
+						"itemID" : 1305,
+						"amount" : 1,
+						"condition" : 0,
+						"itemProperties" : {1000:{
+								"value" : {
+									"__type" : "int"13
+								}
+							},4:{
+								"value" : {
+									"__type" : "int"24065
+								}
+							},3:{
+								"value" : {
+									"__type" : "int"24012
+								}
+							},5:{
+								"value" : {
+									"__type" : "int"24041
+								}
+							},1:{
+								"value" : {
+									"__type" : "int"24062
+								}
+							},2:{
+								"value" : {
+									"__type" : "int"24063
+								}
+							}
+						}
+					},{
+						"itemID" : 1404,
+						"amount" : 1,
+						"condition" : 0,
+						"itemProperties" : {1000:{
+								"value" : {
+									"__type" : "int"42
+								}
+							},2:{
+								"value" : {
+									"__type" : "int"24004
+								}
+							},1:{
+								"value" : {
+									"__type" : "int"24077
+								}
+							},5:{
+								"value" : {
+									"__type" : "int"24039
+								}
+							},3:{
+								"value" : {
+									"__type" : "int"24005
+								}
+							},4:{
+								"value" : {
+									"__type" : "int"24082
+								}
+							}
+						}
+					},{
+						"itemID" : 7022,
+						"amount" : 1,
+						"condition" : 79.14987,
+						"itemProperties" : {0:{
+								"value" : {
+									"__type" : "int"7012
+								}
+							}
+						}
+					}
+				]
+			},
+			"learnedBlueprints" : [
+				15081,15037,15069,15017,15003,15036,15007,15092,15070,15085,15010,15084,15079,15015,15061,15038,15088,15005,15065,15025,15072,15008,16005,16053,16092,16041,16091,16019,16020,16022,16021,16006,16013,16080,16046,16014,16047,16039,16051,16033,16016,16012,16003,16034,16063,16040,16007,16082,16050,16052,16023,16008,15006,16002,16001,16055,16054,16062,16045,16004,16087,15063,15012,15058,16058,15076,16026,16032,16043,16029,16057,16010,16035,16056,15089,16015,15074,15042,15057,15068,15052,15067,15029,15071,16073,16074,16059,16086,16031,15056,16037,15086,15083,15093,15082,15004,15087,15096,15047,15073,15034,15054,16068,16090,15091,15099,15044,15098,16018,16011,16064,16027,16044,16078,16096,16009,16048,16075,16028,16081,15045,15055,16060,16065,15075,15033,15078,15059,15030,16070,16083
+			],
+			"unlockedItems" : [
+				201,7009,1008,3001,6055,7003,4005,26,1002,4004,3002,151,14,202,6003,7020,7021,4009,4018,1201,223,15,12,6252,6253,4006,6501,18,19,203,6101,13,16,213,20,6503,7011,10012,10013,27,21,147,216,1104,145,23
+			],
+			"discoveredLocations" : [
+				"The Castaway Island","District 43","The Mansion","Village","Unknown Ruins","Trading Outpost","Apartments","Radio Island","Mutant Settlement","Large Rock Island","Stormborn Outpost","Neptune","Civic Center","Iron Skull Base","School","Machine Factory","Mutants Raft","Marauder Base","Small Rock Island","Warehouse","Dreadville","Green Isle","The Cliffton Outpost","Twin Rocks","Amuzement park","Gas Station","Ashbond Outpost","The Bridge","Submerged Downtown","Metal Mine","Iron Helmet Base","Faraway Island","The Ruins Island","Zion Atoll","Power Plant","Sea Viper Outpost","Police Station","Drowned Downtown","Refinery","The Parking Lot","Loner Base"
+			],
+			"questSaveDataDictionary" : {"NormalQuest_SurvivalGuide":{
+					"__type" : "QuestSystem.NormalQuestSaveData,Assembly-CSharp",
+					"questObjectiveSaveDataList" : [
+						{
+							"__type" : "QuestSystem.QuestObjectiveBuildBuildingSaveData,Assembly-CSharp",
+							"alreadyBuiltAmount" : 7,
+							"id" : "SurvivalGuide_QuestObjective_1_BuildBuilding_WoodBase",
+							"status" : 3
+						},{
+							"__type" : "QuestSystem.QuestObjectiveBuildBuildingSaveData,Assembly-CSharp",
+							"alreadyBuiltAmount" : 1,
+							"id" : "SurvivalGuide_QuestObjective_2_BuildBuilding _Research Table",
+							"status" : 3
+						},{
+							"__type" : "QuestSystem.QuestObjectiveBuildBuildingSaveData,Assembly-CSharp",
+							"alreadyBuiltAmount" : 1,
+							"id" : "SurvivalGuide_QuestObjective_2_BuildBuilding D3_Simple Purifier",
+							"status" : 3
+						},{
+							"__type" : "QuestSystem.QuestObjectiveBuildBuildingSaveData,Assembly-CSharp",
+							"alreadyBuiltAmount" : 1,
+							"id" : "SurvivalGuide_QuestObjective_2_BuildBuilding_D1_Gridiron",
+							"status" : 3
+						},{
+							"__type" : "QuestSystem.QuestObjectiveCraftItemSaveData,Assembly-CSharp",
+							"alreadyCraftedAmount" : 1,
+							"id" : "SurvivalGuide_QuestObjective_2_CraftItem_B1_Seawater Bucket",
+							"status" : 3
+						},{
+							"__type" : "QuestSystem.QuestObjectiveCraftItemSaveData,Assembly-CSharp",
+							"alreadyCraftedAmount" : 1,
+							"id" : "SurvivalGuide_QuestObjective_2_CraftItem_B3_Fishing Rod",
+							"status" : 3
+						},{
+							"__type" : "QuestSystem.QuestObjectiveBuildBuildingSaveData,Assembly-CSharp",
+							"alreadyBuiltAmount" : 2,
+							"id" : "SurvivalGuide_QuestObjective_3_BuildBuilding_A0_Simple Bed",
+							"status" : 3
+						},{
+							"__type" : "QuestSystem.QuestObjectiveBuildBuildingSaveData,Assembly-CSharp",
+							"alreadyBuiltAmount" : 8,
+							"id" : "SurvivalGuide_QuestObjective_3_BuildBuilding_B_Fire Bowl",
+							"status" : 3
+						},{
+							"__type" : "QuestSystem.QuestObjectiveBuildBuildingSaveData,Assembly-CSharp",
+							"alreadyBuiltAmount" : 34,
+							"id" : "SurvivalGuide_QuestObjective_4_BuildBuilding_B1_Wooden Chest",
+							"status" : 3
+						},{
+							"__type" : "QuestSystem.QuestObjectiveCraftItemSaveData,Assembly-CSharp",
+							"alreadyCraftedAmount" : 6,
+							"id" : "SurvivalGuide_QuestObjective_4_CraftItem_Roasted Mushroom",
+							"status" : 3
+						},{
+							"id" : "SurvivalGuide_QuestObjective_4_DiscoverLocation_TraderOutpost",
+							"status" : 3
+						},{
+							"__type" : "QuestSystem.QuestObjectiveCraftItemSaveData,Assembly-CSharp",
+							"alreadyCraftedAmount" : 2,
+							"id" : "SurvivalGuide_QuestObjective_5_CraftItem_C1_Bow",
+							"status" : 3
+						},{
+							"__type" : "QuestSystem.QuestObjectiveCraftItemSaveData,Assembly-CSharp",
+							"alreadyCraftedAmount" : 1,
+							"id" : "SurvivalGuide_QuestObjective_5_CraftItem_WoodenSpear",
+							"status" : 3
+						},{
+							"id" : "SurvivalGuide_QuestObjective_6_DiscoverLocation_Machine Factory",
+							"status" : 3
+						}
+					],
+					"isViewedByPlayer" : false,
+					"status" : 2
+				},"NormalQuest_HeadingToRadioIsland":{
+					"__type" : "QuestSystem.NormalQuestSaveData,Assembly-CSharp",
+					"questObjectiveSaveDataList" : [
+						{
+							"id" : "HeadingToRadioIsland_QuestObjective_EliminateAllEnemyInLocation_RadioIsland",
+							"status" : 3
+						}
+					],
+					"isViewedByPlayer" : false,
+					"status" : 2
+				},"NormalQuest_HeadingToIronSkullBase":{
+					"__type" : "QuestSystem.NormalQuestSaveData,Assembly-CSharp",
+					"questObjectiveSaveDataList" : [
+						{
+							"id" : "HeadingToIronSkullBase_QuestObjective_EliminateAllEnemyInLocation_IronSkullBase",
+							"status" : 3
+						}
+					],
+					"isViewedByPlayer" : false,
+					"status" : 2
+				},"NormalQuest_HeadingToDreadville":{
+					"__type" : "QuestSystem.NormalQuestSaveData,Assembly-CSharp",
+					"questObjectiveSaveDataList" : [
+						{
+							"__type" : "QuestSystem.QuestObjectiveCraftItemSaveData,Assembly-CSharp",
+							"alreadyCraftedAmount" : 1,
+							"id" : "HeadingToDreadville_QuestObjective_CraftItem_B1_Black Powder",
+							"status" : 3
+						},{
+							"id" : "HeadingToDreadville_QuestObjective_EliminateAllEnemyInLocation_Dreadville",
+							"status" : 3
+						}
+					],
+					"isViewedByPlayer" : false,
+					"status" : 2
+				},"NormalQuest_HeadingToTheClifftonOutpost":{
+					"__type" : "QuestSystem.NormalQuestSaveData,Assembly-CSharp",
+					"questObjectiveSaveDataList" : [
+						{
+							"id" : "HeadingToTheClifftonOutpost_QuestObjective_EliminateAllEnemyInLocation_TheClifftonOutpost",
+							"status" : 3
+						}
+					],
+					"isViewedByPlayer" : false,
+					"status" : 2
+				},"NormalQuest_HeadingToTwinRocks":{
+					"__type" : "QuestSystem.NormalQuestSaveData,Assembly-CSharp",
+					"questObjectiveSaveDataList" : [
+						{
+							"id" : "HeadingToTwinRocks_QuestObjective_EliminateAllEnemyInLocation_TwinRocks",
+							"status" : 3
+						}
+					],
+					"isViewedByPlayer" : false,
+					"status" : 2
+				},"NormalQuest_HeadingToAshbondOutpost":{
+					"__type" : "QuestSystem.NormalQuestSaveData,Assembly-CSharp",
+					"questObjectiveSaveDataList" : [
+						{
+							"id" : "HeadingToAshbondOutpost_QuestObjective_EliminateAllEnemyInLocation_AshbondOutpost",
+							"status" : 3
+						}
+					],
+					"isViewedByPlayer" : false,
+					"status" : 2
+				},"NormalQuest_HeadingToToIronHelmetBase":{
+					"__type" : "QuestSystem.NormalQuestSaveData,Assembly-CSharp",
+					"questObjectiveSaveDataList" : [
+						{
+							"id" : "HeadingToIronHelmetBase_QuestObjective_EliminateAllEnemyInLocation_IronHelmetBase",
+							"status" : 3
+						}
+					],
+					"isViewedByPlayer" : false,
+					"status" : 2
+				},"NormalQuest_HeadingToZionAtoll":{
+					"__type" : "QuestSystem.NormalQuestSaveData,Assembly-CSharp",
+					"questObjectiveSaveDataList" : [
+						{
+							"id" : "HeadingToZionAtoll_QuestObjective_EliminateAllEnemyInLocation_ZionAtoll",
+							"status" : 3
+						}
+					],
+					"isViewedByPlayer" : false,
+					"status" : 2
+				}
+			}
+		}
+	},
+	"ApplicationVersion" : {
+		"__type" : "string",
+		"value" : "0.2.03"
+	}
+}
