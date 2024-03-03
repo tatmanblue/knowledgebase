@@ -8,12 +8,14 @@
 [Myth of Exceptions](https://thedatafarm.com/dotnet/what-i-learned-from-jeff-richter-today-about-exception-handling/)  
 [Best Practices](https://code-maze.com/aspnetcore-webapi-best-practices/)  
 [String Function Speeds](https://stackoverflow.com/questions/42370614/memory-usage-of-concatenating-strings-using-interpolated-vs-operator)  
+[Andrew Lok](https://andrewlock.net/)  
 
 ## Blazor
 [Components](https://blazor-university.com/)  
 
 ## Tutorial
-[Proj Mgmt Site](https://medium.com/@brenobm/building-a-project-management-tool-with-asp-net-f5f40cd84a04)  
-[MySql](https://mysqlconnector.net/tutorials/connect-to-mysql/)  
 [Learning Tree](https://roadmap.sh/aspnet-core)  
 [Message Brokers Part 2](https://anakidze.dev/posts/demystifying-message-brokers-pt2/)  
+[MySql](https://mysqlconnector.net/tutorials/connect-to-mysql/)  
+[Proj Mgmt Site](https://medium.com/@brenobm/building-a-project-management-tool-with-asp-net-f5f40cd84a04)  
+[Using Auth0](https://auth0.com/docs/quickstart/backend/aspnet-core-webapi/01-authorization#configure-the-sample-project)  
