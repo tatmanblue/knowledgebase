@@ -12,6 +12,7 @@
 
 ## Blazor
 [Components](https://blazor-university.com/)  
+[Mail Library](https://github.com/lukencode/FluentEmail)  
 
 ## Tutorial
 [Learning Tree](https://roadmap.sh/aspnet-core)  
