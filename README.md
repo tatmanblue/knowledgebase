@@ -7,6 +7,7 @@ My repo for storing random information
 [DotNet](dotnetcore.md)  
 [Unity](unity.md)  
 [Rust](rust.md)  
+[General Tech](general-tech.md)
 
 ## Games
 [Dual Universe](du.md)  
