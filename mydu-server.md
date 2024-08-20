@@ -14,3 +14,5 @@ for a clean install on win 11)
 
 
 Backoffice - https://localhost:12000/  
+
+Item Hierarchy > GameplayObject > Character > defaultWallet  
