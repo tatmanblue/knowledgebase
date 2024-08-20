@@ -13,6 +13,6 @@ for a clean install on win 11)
 4 - Run: docker run --rm -v "%CD%":/output/ --entrypoint cp novaquark/dual-server-fastinstall:latest -r /server/scripts /output  
 
 
-Backoffice - https://localhost:12000/  
+Backoffice - https://localhost:12000/Backoffice
 
 Item Hierarchy > GameplayObject > Character > defaultWallet  
