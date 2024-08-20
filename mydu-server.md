@@ -11,3 +11,6 @@ for a clean install on win 11)
 2 - Navigate to your server install directory   
 3 - Run: docker pull novaquark/dual-server-fastinstall:latest  
 4 - Run: docker run --rm -v "%CD%":/output/ --entrypoint cp novaquark/dual-server-fastinstall:latest -r /server/scripts /output  
+
+
+Backoffice - https://localhost:12000/  
