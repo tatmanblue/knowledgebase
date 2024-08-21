@@ -1,18 +1,22 @@
-# quick notes  
-for a clean install on win 11)  
-1) stop all all containers and delete, on last one server will disappear.  
-2) delete server directory   
-3) reboot (i dont care its not linux its windows reboot) 3.5)install win server binary  
-4) these steps mydu-announcements   
-5) then this mydu-server-questions  
+# My Du Server Setup
 
-## Step 4  
-1 - Open a command prompt 
-2 - Navigate to your server install directory   
-3 - Run: docker pull novaquark/dual-server-fastinstall:latest  
-4 - Run: docker run --rm -v "%CD%":/output/ --entrypoint cp novaquark/dual-server-fastinstall:latest -r /server/scripts /output  
+## Windows 
+Not required but highly recommend you start with clean environment  
+1. Stop all the docker containers
+2. Remove all lingering containers, all images, all volumes
+3. Delete the server install directory and all subdirectories
+4. Reboot
 
+Then these are the steps I gleaned from a few different sources.  
+1. Down load the latest server install because it was updated today
+2. Install that
+3. run ipconfig to find your local ip adress
+4. from the server install folder run scripts\config-set-domain.bat config/dual.yaml http://10.0.0.106 10.0.0.106 (use your local ipaddress, not public)
+5. run scripts\maintenance-mode-off.sh
+6. stop and restart du server (use the batch files provided)
+7. log into backoffice https://localhost:12000/Backoffice using admin account and password you setup during in the install (step 2)
+8. create user accounts, other config. Any user accounts that will be used to play the game need to have the game role assigned.
+9. run the my du client
+10. once your at the server selection screen, in server url field use the ip address in steps 3 and 4, login and password from the accounts you created in the backoffice (if you don't want to use admin)
 
-Backoffice - https://localhost:12000/Backoffice
-
-Item Hierarchy > GameplayObject > Character > defaultWallet  
+I think that was it for me. I think the real trick was steps 4,5, and correct ip address in 9
