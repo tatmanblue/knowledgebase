@@ -11,8 +11,8 @@ Then these are the steps I gleaned from a few different sources.
 1. Down load the latest server install because it was updated today
 2. Install that
 3. run ipconfig to find your local ip adress
-4. from the server install folder run scripts\config-set-domain.bat config/dual.yaml http://10.0.0.106 10.0.0.106 (use your local ipaddress, not public)
-5. run scripts\maintenance-mode-off.sh
+4. from the server install folder run `scripts\config-set-domain.bat config/dual.yaml http://10.0.0.106 10.0.0.106` (use your local ipaddress, not public)
+5. run `scripts\maintenance-mode-off.sh`
 6. stop and restart du server (use the batch files provided)
 7. log into backoffice https://localhost:12000/Backoffice using admin account and password you setup during in the install (step 2)
 8. create user accounts, other config. Any user accounts that will be used to play the game need to have the game role assigned.
