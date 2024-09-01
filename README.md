@@ -19,6 +19,8 @@ My repo for storing random information
 [Microsoft Quantum Computing](https://learn.microsoft.com/en-us/azure/quantum/overview-what-is-qsharp-and-qdk)  
 
 ## Uncategorized links
+[LUA for Windows](https://github.com/rjpcomputing/luaforwindows/releases)  
 [About Press Kits](https://impress.games/blog/biggest-indie-game-press-kit-mistakes)  
 https://www.webfx.com/tools/emoji-cheat-sheet/  
 https://gist.github.com/harishanchu/e82d759c0235379d1778f799992b5774  
+
