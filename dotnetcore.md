@@ -14,6 +14,7 @@
 ## Blazor
 [Components](https://blazor-university.com/)  
 [Mail Library](https://github.com/lukencode/FluentEmail)  
+[Blorize](https://blazorise.com/docs/start) -- whole project templates    
 
 ## RMTP/Streaming 
 [Library](https://github.com/josephnhtam/live-streaming-server-net)  
