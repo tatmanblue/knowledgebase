@@ -15,7 +15,7 @@ https://www.immersivelimit.com/tutorials/simple-character-controller-for-unity
 https://docs.unity3d.com/Manual/ConfiguringtheAvatar.html  
 https://catlikecoding.com/unity/tutorials/movement/  
 
-# Charactors
+# Characters
 [Ready Player](https://readyplayer.me/)  
 
 # UMA Charactor Tutorials
@@ -67,6 +67,7 @@ https://www.youtube.com/watch?v=0-PxVfOy5Ko
 ## progreamming
 [Async](https://learn.microsoft.com/en-us/dotnet/standard/asynchronous-programming-patterns/)  
 [Various Patterns](https://github.com/Unity-Technologies/game-programming-patterns-demo/tree/main?fbclid=IwAR1go9qrJ6U9uaw2DNap3S3tVJ5amb7emMhq5q8uEaUKbmqX4jrKZKBy284)  
+[Networking library](https://github.com/DarkRiftNetworking/DarkRift)  
 
 ## Blogs
 https://www.boristhebrave.com/  
