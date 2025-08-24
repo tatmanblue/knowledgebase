@@ -13,6 +13,7 @@ My repo for storing random information
 ## Games
 [Dual Universe](du.md)  
 [SunkenLands](sunkenland.md)  
+[Satisfactory](https://satisfactory.wiki.gg/wiki/Satisfactory_Wiki)  
 
 
 ## Learning
