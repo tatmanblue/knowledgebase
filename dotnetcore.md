@@ -11,6 +11,9 @@
 [String Function Speeds](https://stackoverflow.com/questions/42370614/memory-usage-of-concatenating-strings-using-interpolated-vs-operator)  
 [Andrew Lok](https://andrewlock.net/)  
 
+## General tools
+[Postgressql](https://www.npgsql.org/doc/installation.html)  
+
 ## Blazor
 [Components](https://blazor-university.com/)  
 [Mail Library](https://github.com/lukencode/FluentEmail)  
