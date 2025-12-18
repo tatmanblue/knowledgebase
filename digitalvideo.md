@@ -9,6 +9,7 @@ uses:  APS-C (E-mount) and full-frame (FE-mount) lenses
 
 ## Mics
 [Sennheiser Wireless](https://www.bhphotovideo.com/c/product/1857845-REG/sennheiser_700266_profile_2_person_clip_on_wireless.html)  
+[Sennheiser Shotgun](https://www.bhphotovideo.com/c/product/1629642-REG/sennheiser_508898_mke_400_camera_mount_shotgun.html)  
 
 ## Rig Setup  
 | Component              | Recommendation                          | Purpose                              | Approx. Price     |
