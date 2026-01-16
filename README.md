@@ -25,4 +25,5 @@ My repo for storing random information
 [About Press Kits](https://impress.games/blog/biggest-indie-game-press-kit-mistakes)  
 [Emjois](https://www.webfx.com/tools/emoji-cheat-sheet/)  
 [Create Open SSL Cert](https://gist.github.com/harishanchu/e82d759c0235379d1778f799992b5774)  
+[Shure Wireless Freq Finder](https://www.shure.com/en-US/support/tools/frequency-finder)  
 
