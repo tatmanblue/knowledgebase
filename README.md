@@ -1,4 +1,6 @@
 # Knowledge Base
+
+[![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/tatmanblue/knowledgebase)  
 My repo for storing random information
 
 # Categorized Documents
