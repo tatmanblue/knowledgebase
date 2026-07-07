@@ -10,6 +10,7 @@
 [Best Practices](https://code-maze.com/aspnetcore-webapi-best-practices/)  
 [String Function Speeds](https://stackoverflow.com/questions/42370614/memory-usage-of-concatenating-strings-using-interpolated-vs-operator)  
 [Andrew Lok](https://andrewlock.net/)  
+[C# for AI](https://medium.com/@mohsho10/c-is-becoming-an-ai-language-heres-what-microsoft-isn-t-saying-5225897bc6cc)  
 
 ## General tools
 [Postgressql](https://www.npgsql.org/doc/installation.html)  
