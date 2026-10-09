@@ -12,6 +12,7 @@ My repo for storing random information
 [Rust](rust.md)  
 [General Tech](general-tech.md)  
 [Video Making](digitalvideo.md)  
+[Astronomy](telescope.md)  
 
 ## Games
 [Dual Universe](du.md)  
