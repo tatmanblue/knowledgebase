@@ -1,7 +1,7 @@
 # Astronomy Equipment & Telescope Inventory
 
 ## 1. Telescope & Mount Assembly
-* **Telescope Model:** Celestron CPC Series Schmidt-Cassegrain Telescope (SCT)
+* **Telescope Model:** 8" Celestron CPC Series Schmidt-Cassegrain Telescope (SCT)
 * **Mount Type:** Dual-fork arm computerized Alt-Azimuth GoTo mount
 * **Optical Coatings:** StarBright XLT High Transmission Coatings
 * **Visual Back:** Celestron 1.25" visual back adapter (threaded onto rear cell)
