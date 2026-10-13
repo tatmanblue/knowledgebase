@@ -1,6 +1,11 @@
 Camera: Sony - Alpha ZVE10 II: APS-C
 uses:  APS-C (E-mount) and full-frame (FE-mount) lenses
 
+## Equipment
+Sony E PZ 16-50mm F3.5-5.6 OSS II   
+40.5mm Black Diffusion 1/4 Filter Mist Cinematic Effect Filter  
+40.5mm Neutral Density Filter, 40.5mm Slim Variable Fader ND Filter Adjustable ND2 to ND400 Filter  
+
 ## Apps
 [Sony Camera Ipad Monitor](https://monitorplus.cc/)   
 
