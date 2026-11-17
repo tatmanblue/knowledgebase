@@ -3,6 +3,7 @@ uses:  APS-C (E-mount) and full-frame (FE-mount) lenses
 
 ## Equipment
 Sony E PZ 16-50mm F3.5-5.6 OSS II   
+Samyang SYIO12AF 12mm F2.0 AF Ultra Wide Lens  
 40.5mm Black Diffusion 1/4 Filter Mist Cinematic Effect Filter  
 40.5mm Neutral Density Filter, 40.5mm Slim Variable Fader ND Filter Adjustable ND2 to ND400 Filter  
 
